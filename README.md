@@ -109,16 +109,16 @@ OR can write:
 #### Arithmetic Operators
 
 =
-+
--
-*
+\+
+\-
+\*
 /
 %
 
 
 Unary operators
-+ (+a)
-- (-a)
+\+ (+a)
+\- (-a)
 ++ (a++ or ++a)
 -- (a-- or --a)
 
@@ -135,28 +135,28 @@ a++ uses a and then increments
 
 #### Comparison Operators
 
-==
-!=
->
-<
->=
-<=
+  - ==
+  - \!=
+  - \>
+  - <
+  - \>=
+  - <=
 
 #### Logical Operators
-!
-&&
-||
+  - !
+  - &&
+  - ||
 
 #### Compound Assignment Operators
-+=
--=
-*=
-/=
-%=
+  - +=
+  - -=
+  - *=
+  - /=
+  - %=
 
 #### Ternary Operator
 
-<condition> ? <expression> : <expression>
+```<condition> ? <expression> : <expression>```
 
 a ? b : c
 
