@@ -108,19 +108,19 @@ OR can write:
 
 #### Arithmetic Operators
 
-=
-\+
-\-
-\*
-/
-%
+  - =
+  - \+
+  - \-
+  - \*
+  - /
+  - %
 
 
 Unary operators
-\+ (+a)
-\- (-a)
-++ (a++ or ++a)
--- (a-- or --a)
+  - \+ (+a)
+  - \- (-a)
+  - ++ (a++ or ++a)
+  - -- (a-- or --a)
 
 
 a++ uses a and then increments
